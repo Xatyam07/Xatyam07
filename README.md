@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satyam%20Mishra&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Cybersecurity%20Architect&descAlignY=55&descSize=18" />
-
-<!-- TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&lines=Building+CyberThreatAI+%7C+cyberthreatai.me;AI+%7C+NLP+%7C+Deepfake+Detection+Systems;Full+Stack+Engineer+%7C+FastAPI+%7C+React;VAPT+%7C+OWASP+%7C+SIEM+%7C+Cybersecurity;Turning+Ideas+Into+Production+Systems)](https://git.io/typing-svg)
-
-<br/>
+<!-- HEADER - using readme-typing-svg which is confirmed working -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Satyam+Mishra;Software+Engineer;AI+%26+Cybersecurity+Architect;Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Xatyam07&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 &nbsp;
@@ -14,16 +11,6 @@
 &nbsp;
 ![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20Cybersecurity-00d4ff?style=for-the-badge)
 
-</div>
-
----
-
-## 🌐 3D Contribution Globe
-
-<div align="center">
-<a href="https://github.com/Xatyam07">
-  <img src="https://github-profile-3d-contrib.vercel.app/profile-south-season-animate.svg" width="100%" alt="3D Contribution Globe"/>
-</a>
 </div>
 
 ---
@@ -111,7 +98,7 @@ print(me.philosophy())
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Security Tools**
+**Security**
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge&logo=nmap&logoColor=white)
@@ -238,29 +225,17 @@ print(me.philosophy())
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Xatyam07&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Xatyam07&theme=tokyonight&background=0D1117&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=7c3aed" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xatyam07&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Xatyam07&theme=tokyonight&background=0D1117&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=7c3aed" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xatyam07&layout=donut&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xatyam07&layout=donut&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
 
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xatyam07&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ff6b35&area=true&border_color=00d4ff&area_color=1a0a2e)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Xatyam07&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" />
 </div>
 
 ---
@@ -269,24 +244,13 @@ print(me.philosophy())
 
 <div align="center">
 
-> ⚙️ Run the `snake.yml` GitHub Action first — then this animates automatically
-
+<!-- Snake works ONLY after you run the GitHub Action (snake.yml) once -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xatyam07/Xatyam07/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xatyam07/Xatyam07/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Xatyam07/Xatyam07/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-</div>
-
----
-
-## 🌏 3D Contribution Calendar
-
-<div align="center">
-<a href="https://github.com/Xatyam07">
-<img src="https://github-profile-3d-contrib.vercel.app/profile-south-season-animate.svg" width="100%" alt="3D Contribution Wall" />
-</a>
 </div>
 
 ---
@@ -339,18 +303,16 @@ print(me.philosophy())
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-satyam07portfolio.vercel.app-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://satyam07portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-satyam--mishra--786by4-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-mishra-786by4)
-[![Gmail](https://img.shields.io/badge/Gmail-xatyammishra07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xatyammishra07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-satyam--mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-mishra-786by4)
+[![Gmail](https://img.shields.io/badge/Gmail-xatyammishra07-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xatyammishra07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Xatyam07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xatyam07)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2k23cscys5hje-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/2k23cscys5hje)
-[![Live](https://img.shields.io/badge/🛡️_Live-cyberthreatai.me-7c3aed?style=for-the-badge)](https://cyberthreatai.me)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/2k23cscys5hje)
+[![Live](https://img.shields.io/badge/Live_Project-cyberthreatai.me-7c3aed?style=for-the-badge)](https://cyberthreatai.me)
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20that%20matters.&fontSize=18&fontColor=fff&fontAlignY=65&animation=twinkling" />
-
 <div align="center">
-<sub>⭐ Star my repos if you find them useful · Built with ❤️ from Kanpur, India 🇮🇳 · <a href="https://cyberthreatai.me">cyberthreatai.me</a></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐+Star+my+repos+if+useful;Built+with+❤️+from+Kanpur%2C+India+🇮🇳;Let's+build+something+that+matters+🚀" alt="Footer" />
 </div>
