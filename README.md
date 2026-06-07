@@ -1,48 +1,74 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Satyam%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Cybersecurity%20Architect&descAlignY=55&descSize=18&animation=fadeIn" />
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satyam%20Mishra&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Cybersecurity%20Architect&descAlignY=55&descSize=18" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🛡️+Building+CyberThreatAI+%7C+cyberthreatai.me;🤖+AI+%7C+Machine+Learning+%7C+NLP;⚡+Full+Stack+Engineer+%7C+FastAPI+%7C+React;🔐+VAPT+%7C+OWASP+%7C+SIEM+Security;🚀+Turning+Ideas+into+Production+Systems" alt="Typing SVG" />
-</a>
+<!-- TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&lines=Building+CyberThreatAI+%7C+cyberthreatai.me;AI+%7C+NLP+%7C+Deepfake+Detection+Systems;Full+Stack+Engineer+%7C+FastAPI+%7C+React;VAPT+%7C+OWASP+%7C+SIEM+%7C+Cybersecurity;Turning+Ideas+Into+Production+Systems)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Xatyam07&label=Profile+Views&color=00d4ff&style=for-the-badge&logo=eye" />
-  <img src="https://img.shields.io/github/followers/Xatyam07?label=Followers&style=for-the-badge&color=7c3aed&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20AI-00d4ff?style=for-the-badge&logo=shield&logoColor=white" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Xatyam07&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Xatyam07?label=Followers&style=for-the-badge&color=7c3aed)
+&nbsp;
+![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20Cybersecurity-00d4ff?style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- 3D SKILL GLOBE -->
+## 🌐 3D Contribution Globe
+
 <div align="center">
-
-## 🌐 Skills Universe — 3D Rotating Globe
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xatyam07/Xatyam07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xatyam07/Xatyam07/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xatyam07/Xatyam07/output/github-snake-dark.svg" />
-</picture>
-
-<!-- 3D Globe via cobe embed -->
 <a href="https://github.com/Xatyam07">
-  <img src="https://github-globe.vercel.app/?username=Xatyam07&theme=dark&color=00d4ff" width="400" height="400" alt="3D Skills Globe" onerror="this.style.display='none'" />
+  <img src="https://github-profile-3d-contrib.vercel.app/profile-south-season-animate.svg" width="100%" alt="3D Contribution Globe"/>
 </a>
-
 </div>
 
-<!-- TECH SKILLS GRID WITH BADGES -->
-<div align="center">
+---
 
-### ⚡ Core Technologies
+## 👨‍💻 About Me
+
+```python
+class SatyamMishra:
+    def __init__(self):
+        self.name         = "Satyam Mishra"
+        self.handle       = "@Xatyam07"
+        self.location     = "Kanpur, Uttar Pradesh, India 🇮🇳"
+        self.education    = "B.Tech CSE · PSIT Kanpur · CGPA 7.5"
+        self.email        = "xatyammishra07@gmail.com"
+        self.portfolio    = "https://satyam07portfolio.vercel.app"
+        self.live_project = "https://cyberthreatai.me"
+
+        self.passions = [
+            "🛡️  Cybersecurity · VAPT · Threat Intelligence",
+            "🤖  Artificial Intelligence · ML · NLP",
+            "⚡  Full Stack Engineering · React · FastAPI",
+            "🔐  Penetration Testing · OWASP · SIEM",
+            "🔬  Deepfake Detection · XAI · Computer Vision"
+        ]
+
+        self.current_builds = {
+            "VERITAS / CyberThreatAI" : "Multimodal deepfake & threat detection",
+            "Outreach Automation"     : "AI lead-gen · Ocean.io + Brevo",
+            "FoodBridge"              : "NGO food redistribution · Flutter + Firebase",
+            "Speech Sentiment AI"     : "Real-time emotion detection from audio"
+        }
+
+    def philosophy(self) -> str:
+        return "Build systems that defend, detect, and deliver. 🚀"
+
+me = SatyamMishra()
+print(me.philosophy())
+# → Build systems that defend, detect, and deliver. 🚀
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -59,12 +85,14 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **AI / ML**
@@ -83,78 +111,44 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**DevOps & Security**
+**Security Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
-
-<!-- ABOUT ME - CODE STYLE -->
-<div align="center">
-
-## 👨‍💻 About Me
-
-</div>
-
-```python
-class SatyamMishra:
-    def __init__(self):
-        self.name        = "Satyam Mishra"
-        self.username    = "Xatyam07"
-        self.location    = "Kanpur, India 🇮🇳"
-        self.education   = "B.Tech CSE @ PSIT Kanpur  |  CGPA: 7.5"
-        self.email       = "xatyammishra07@gmail.com"
-        self.portfolio   = "https://satyam07portfolio.vercel.app"
-        
-        self.focus       = [
-            "AI-Powered Cybersecurity",
-            "Full Stack Web Engineering",
-            "Threat Intelligence Platforms",
-            "Machine Learning & NLP",
-            "Vulnerability Assessment & Penetration Testing"
-        ]
-        
-        self.currently_building = {
-            "🛡️ VERITAS / CyberThreatAI": "Multimodal deepfake & cyber threat detection platform",
-            "⚡ Outreach Automation":     "AI-powered lead gen & email pipeline (Ocean.io + Brevo)",
-            "📊 DsaStats":               "Full-Stack DSA analytics platform"
-        }
-        
-        self.philosophy  = "Build systems that defend, detect, and deliver."
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something that matters. 🚀")
-
-me = SatyamMishra()
-me.say_hi()
-```
-
----
-
-<!-- EXPERIENCE -->
-<div align="center">
 
 ## 💼 Experience
 
-</div>
-
-<table align="center" width="90%">
+<table width="92%" align="center">
 <tr>
 <td width="50%" valign="top">
 
 ### 🔐 ShadowFox Inc.
 **Vulnerability Assessment & Penetration Testing Intern**
 
-- 🎯 OWASP Top 10 vulnerability assessments
-- 🔎 Penetration testing across web & network layers
-- 📡 SIEM monitoring & log analysis
-- 🛠️ Tools: **Nmap**, **Burp Suite**, **Wireshark**, **Metasploit**
+| Area | Work |
+|---|---|
+| OWASP Top 10 | Full vulnerability mapping |
+| Pen Testing | Web & network layers |
+| SIEM | Log monitoring & alerting |
+| Nmap | Network reconnaissance |
+| Burp Suite | HTTP interception & fuzzing |
+| Wireshark | Packet-level analysis |
 
 </td>
 <td width="50%" valign="top">
@@ -162,10 +156,14 @@ me.say_hi()
 ### 📊 DsaStats
 **Full Stack Developer Intern**
 
-- ⚛️ React component architecture & UI systems
-- 🔌 RESTful APIs with **Node.js** + **Express.js**
-- 🔥 **Firebase** real-time database integration
-- 🐍 **Django** backend services & admin panel
+| Area | Work |
+|---|---|
+| React | Component architecture |
+| Node.js | REST API development |
+| Express.js | Server & middleware |
+| Firebase | Realtime DB + Auth |
+| Django | Backend + Admin panel |
+| MongoDB | NoSQL data modeling |
 
 </td>
 </tr>
@@ -173,30 +171,24 @@ me.say_hi()
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<div align="center">
-
 ## 🚀 Featured Projects
 
-</div>
-
-<table align="center" width="95%">
-
+<table width="95%" align="center">
 <tr>
 <td width="50%" valign="top">
 
 ### 🛡️ CyberThreatAI / VERITAS
 > AI-powered Cyber Threat Intelligence Platform
 
-[![Live](https://img.shields.io/badge/🌐_Live-cyberthreatai.me-00d4ff?style=for-the-badge)](https://cyberthreatai.me)
+[![LIVE](https://img.shields.io/badge/🌐_LIVE-cyberthreatai.me-00d4ff?style=for-the-badge)](https://cyberthreatai.me)
 
-**What it does:**
-- 🤖 7-signal text ensemble (BART, NLP, sentiment analysis)
-- 🖼️ Advanced image forensics (ELA, EXIF, frequency domain)
-- 🎭 Deepfake & phishing detection
-- 🔐 Firebase auth + FastAPI backend
+- 7-signal text ensemble (BART, NLP, phishing patterns)
+- Advanced image forensics — ELA, EXIF, frequency domain
+- Deepfake detection with cross-modal reasoning
+- Firebase Auth + FastAPI + SQLite persistence
+- XAI engine for explainable threat analysis
 
-**Stack:** `Python` `FastAPI` `Streamlit` `OpenCV` `Transformers` `SQLite`
+`Python` `FastAPI` `Streamlit` `OpenCV` `Transformers` `SQLite`
 
 </td>
 <td width="50%" valign="top">
@@ -204,44 +196,41 @@ me.say_hi()
 ### 🍲 FoodBridge
 > Food Donation & Distribution Platform
 
-**What it does:**
-- 🏢 NGO integration for food redistribution
-- 📍 Real-time tracking with Google Maps
-- 🔐 Firebase authentication & database
-- 📱 Cross-platform mobile app
+- NGO integration & food redistribution workflows
+- Real-time tracking via Google Maps API
+- Firebase Authentication + Firestore
+- Cross-platform iOS + Android
+- Push notification system
 
-**Stack:** `Flutter` `Firebase` `Dart` `Google Maps API`
+`Flutter` `Firebase` `Dart` `Google Maps API`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 📧 Vocallabs Outreach Automation
-> Intelligent Lead Generation & Email Pipeline
+> AI Lead Generation & Email Pipeline
 
-**What it does:**
-- 🌊 Ocean.io + Prospeo lead sourcing
-- ✉️ Brevo automated email sequences
-- 🧠 AI-powered lead enrichment
-- 📈 End-to-end pipeline automation
+- Ocean.io + Prospeo automated lead sourcing
+- Brevo email sequence automation
+- AI-powered lead enrichment & scoring
+- Zero-touch pipeline execution
 
-**Stack:** `Python` `Node.js` `REST APIs` `Brevo` `Ocean.io`
+`Python` `Node.js` `REST APIs` `Brevo` `Ocean.io`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎙️ Speech Sentiment Detection
-> Real-Time AI Speech Analysis Platform
+> Real-Time Emotion Detection from Audio
 
-**What it does:**
-- 🎤 Real-time audio sentiment classification
-- 📊 Multi-class emotion detection
-- 🧠 Deep learning speech models
-- 📈 Visualization dashboard
+- Real-time audio capture & preprocessing
+- Multi-class emotion classification
+- Deep learning speech models (Librosa + TF)
+- Live visualization dashboard
 
-**Stack:** `Python` `TensorFlow` `Librosa` `React` `FastAPI`
+`Python` `TensorFlow` `Librosa` `React` `FastAPI`
 
 </td>
 </tr>
@@ -249,39 +238,38 @@ me.say_hi()
 
 ---
 
-<!-- GITHUB STATS -->
-<div align="center">
-
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xatyam07&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xatyam07&theme=tokyonight&background=0D1117&border=00d4ff&stroke=00d4ff&ring=7c3aed&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=888888" />
+<div align="center">
 
-<br/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Xatyam07&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Xatyam07&theme=tokyonight&background=0D1117&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=7c3aed" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xatyam07&layout=donut&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&hide_border=false&langs_count=8" />
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xatyam07&layout=donut&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xatyam07&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ff6b35&area=true&border_color=00d4ff&area_color=1a0a2e)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-
-<!-- GITHUB TROPHIES -->
-<div align="center">
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Xatyam07&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Xatyam07&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" />
 </div>
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-<div align="center">
-
 ## 🐍 Contribution Snake
 
-> *A snake eats through my contribution graph every day — powered by GitHub Actions*
+<div align="center">
+
+> ⚙️ Run the `snake.yml` GitHub Action first — then this animates automatically
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xatyam07/Xatyam07/output/github-snake-dark.svg" />
@@ -289,105 +277,80 @@ me.say_hi()
   <img alt="github-snake" src="https://raw.githubusercontent.com/Xatyam07/Xatyam07/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-> ⚙️ **To activate the snake:** Create `.github/workflows/snake.yml` — see setup instructions below ↓
-
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+## 🌏 3D Contribution Calendar
+
 <div align="center">
-
-## 📈 Contribution Activity
-
-[![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xatyam07&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ff6b35&area=true&hide_border=false&border_color=00d4ff&area_color=00d4ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<a href="https://github.com/Xatyam07">
+<img src="https://github-profile-3d-contrib.vercel.app/profile-south-season-animate.svg" width="100%" alt="3D Contribution Wall" />
+</a>
 </div>
 
 ---
 
-<!-- ACHIEVEMENTS -->
-<div align="center">
-
-## 🎯 Achievements & Milestones
-
-</div>
+## 🎯 Achievements
 
 <table align="center" width="80%">
-<tr>
-<td align="center">✅</td><td><strong>300+ DSA Problems Solved</strong> on LeetCode, GFG, and platforms</td>
-</tr>
-<tr>
-<td align="center">🛡️</td><td><strong>Built & Deployed CyberThreatAI</strong> — live at cyberthreatai.me</td>
-</tr>
-<tr>
-<td align="center">🍲</td><td><strong>Built & Deployed FoodBridge</strong> — cross-platform mobile app</td>
-</tr>
-<tr>
-<td align="center">🔐</td><td><strong>VAPT Internship</strong> at ShadowFox Inc. — real-world security work</td>
-</tr>
-<tr>
-<td align="center">⚡</td><td><strong>Full Stack Internship</strong> at DsaStats — production React + Node apps</td>
-</tr>
-<tr>
-<td align="center">🤖</td><td><strong>Oracle AI Foundations Associate</strong> certified</td>
-</tr>
-<tr>
-<td align="center">🌐</td><td><strong>ISO 27001</strong> Information Security awareness certified</td>
-</tr>
+<tr><td>🛡️</td><td><strong>Built & Deployed CyberThreatAI</strong> — Live at <a href="https://cyberthreatai.me">cyberthreatai.me</a></td></tr>
+<tr><td>✅</td><td><strong>300+ DSA Problems Solved</strong> — LeetCode, GFG, HackerRank</td></tr>
+<tr><td>🍲</td><td><strong>Built FoodBridge</strong> — Cross-platform Flutter app with NGO integrations</td></tr>
+<tr><td>📧</td><td><strong>Vocallabs Automation</strong> — Zero-touch AI outreach pipeline in production</td></tr>
+<tr><td>🔐</td><td><strong>VAPT Internship @ ShadowFox</strong> — Real-world pen testing & SIEM</td></tr>
+<tr><td>⚡</td><td><strong>Full Stack Internship @ DsaStats</strong> — Shipped production React + Node features</td></tr>
+<tr><td>🤖</td><td><strong>Oracle AI Foundations Associate</strong> — Certified</td></tr>
+<tr><td>🌐</td><td><strong>ISO 27001</strong> — Information Security Management certified</td></tr>
 </table>
 
 ---
 
-<!-- EDUCATION -->
-<div align="center">
-
 ## 🎓 Education
 
-| Institution | Degree | Score |
+<div align="center">
+
+| 🏛️ Institution | 📚 Degree | 📊 Score |
 |---|---|---|
-| 🏫 PSIT Kanpur | B.Tech — CSE | 7.5 CGPA |
+| Pranveer Singh Institute of Technology, Kanpur | B.Tech — Computer Science Engineering | 7.5 CGPA |
 
 </div>
 
 ---
 
-<!-- CERTIFICATIONS -->
-<div align="center">
-
 ## 📜 Certifications
+
+<div align="center">
 
 ![Oracle](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![ISO](https://img.shields.io/badge/ISO%2027001-Information%20Security-0066CC?style=for-the-badge&logo=iso&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Python%20Basic-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/CERT-Cyber%20Hygiene%20Practices-00d4ff?style=for-the-badge&logo=shield&logoColor=white)
-![AI/ML](https://img.shields.io/badge/Multiple-AI%20%26%20ML%20Certs-7c3aed?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Web](https://img.shields.io/badge/Multiple-Web%20Dev%20Certs-ff6b35?style=for-the-badge&logo=html5&logoColor=white)
+![Cert](https://img.shields.io/badge/CERT-Cyber%20Hygiene%20Practices-00d4ff?style=for-the-badge&logo=shield&logoColor=white)
+![AI](https://img.shields.io/badge/Multiple-AI%20%26%20ML%20Certifications-7c3aed?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Web](https://img.shields.io/badge/Multiple-Web%20Dev%20Certifications-ff6b35?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
 ---
 
-<!-- CONNECT -->
-<div align="center">
-
 ## 🌐 Connect With Me
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-satyam07portfolio.vercel.app-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://satyam07portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-satyam--mishra--786by4-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-mishra-786by4)
 [![Gmail](https://img.shields.io/badge/Gmail-xatyammishra07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xatyammishra07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Xatyam07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xatyam07)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2k23cscys5hje-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/2k23cscys5hje)
-[![CyberThreatAI](https://img.shields.io/badge/🛡️_Live_Project-cyberthreatai.me-7c3aed?style=for-the-badge)](https://cyberthreatai.me)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2k23cscys5hje-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/2k23cscys5hje)
+[![Live](https://img.shields.io/badge/🛡️_Live-cyberthreatai.me-7c3aed?style=for-the-badge)](https://cyberthreatai.me)
 
 </div>
 
 ---
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20that%20matters.&fontSize=18&fontColor=fff&fontAlignY=65&animation=twinkling" />
 
 <div align="center">
-<sub>⭐ Star my repos if you find them useful • Built with passion from India 🇮🇳</sub>
+<sub>⭐ Star my repos if you find them useful · Built with ❤️ from Kanpur, India 🇮🇳 · <a href="https://cyberthreatai.me">cyberthreatai.me</a></sub>
 </div>
