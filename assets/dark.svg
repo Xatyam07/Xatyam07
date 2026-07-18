@@ -211,7 +211,7 @@
       </g>
       <g opacity="0"><animate attributeName="opacity" to="1" begin="2.2s" dur="0.4s" fill="freeze"/>
         <circle cx="519" cy="298" r="3" fill="#A855F7"/>
-        <text x="534" y="303" fill="#94A3B8">Portfolio <tspan fill="#F8FAFC">— satyam07portfolio.vercel.app</tspan></text>
+        <text x="534" y="303" fill="#94A3B8">Portfolio <tspan fill="#F8FAFC">— satyam.site</tspan></text>
       </g>
       <g opacity="0"><animate attributeName="opacity" to="1" begin="2.5s" dur="0.4s" fill="freeze"/>
         <circle cx="519" cy="326" r="3" fill="#22D3EE"/>
